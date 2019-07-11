@@ -2,8 +2,11 @@
 The goal of this software is to map how news will flow through a population depending on certain variables.
 
 Generation 0: This is the source of the news.
+
 Generation 1: These are the firsthand recipients of the news.
+
 Generation 2: These are the secondhand recipients of the news.
+
 Generation X: These are the x-hand recipients of the news.
 
 There are other variables that will impact the flow of news. 
