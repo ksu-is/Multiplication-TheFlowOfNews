@@ -12,6 +12,7 @@ Generation X: These are the x-hand recipients of the news.
 
 
 
+
 There are other variables that will impact the flow of news. 
 How many “generations” are there? More generations lead to more impact. 
 How “faithful” is a person to tell the news? More faithful people lead to more impact.
