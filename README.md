@@ -7,7 +7,11 @@ The goal of this software is to map how news will flow through a population depe
 ###### Generation 2: These are the secondhand recipients of the news.
 ###### Generation X: These are the x-hand recipients of the news.
 
+
+
 <img width="330" alt="multiply" src="https://user-images.githubusercontent.com/51352115/61081437-3996a600-a3f5-11e9-9195-a5ff9ff67c47.png">
+
+
 
 
 There are other variables that will impact the flow of news:  
