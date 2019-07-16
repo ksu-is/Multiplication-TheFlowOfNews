@@ -1,0 +1,10 @@
+1. 
+1. Evaluate code base [here](https://github.com/LambdaSchool/Graphs). Determine starting place of software depending on the structure of source code.
+1. Build a basic network according to the code base. The code doesn't have to have variables, but the GUI should be functional.
+1. Incorporate "generations" into the network-- this is how many connections there are in a single stream.
+1. Incorporate "faithfulness" into the network-- this is how many connections are split off, on average, from an individual spot.
+1. Incorporate "reproducibility" into the network-- this impacts how the spot will be different from the preceding spot.
+1. Test code with many different combinations of the variables.
+1. Build proper code documentation according to the software thus far. 
+1. Download file and test locally through IDLE
+1. 
