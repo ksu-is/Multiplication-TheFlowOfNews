@@ -1,5 +1,5 @@
 1. Create empty python document and commit it to the repository.
-2. Evaluate code base [here](https://github.com/LambdaSchool/Graphs). Determine starting place of software depending on the structure of source code.
+2. Evaluate code base ![here](https://github.com/LambdaSchool/Graphs). Determine starting place of software depending on the structure of source code.
 3. Build a basic network according to the code base. The code doesn't have to have variables, but the GUI should be functional.
 4. Incorporate "generations" into the network-- this is how many connections there are in a single stream.
 5. Incorporate "faithfulness" into the network-- this is how many connections are split off, on average, from an individual spot.
