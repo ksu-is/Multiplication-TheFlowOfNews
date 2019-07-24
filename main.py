@@ -5,7 +5,7 @@ import random
 ## Below are the rudimentary controls for the variables.
 faithfulness = 1
 generations = 4
-diversion = 2
+diversion = 0
 count = 0
 base = 1
 health = "L"
